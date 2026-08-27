@@ -1,0 +1,10 @@
+server:
+  port: 8082
+course:
+  environment: default
+services:
+  accounts:
+    base-url: ${ACCOUNTS_BASE_URL:http://localhost:8081}
+    timeout: ${ACCOUNTS_TIMEOUT:1s}
+jwt:
+  secret: ${JWT_SECRET:01234567890123456789012345678901}
