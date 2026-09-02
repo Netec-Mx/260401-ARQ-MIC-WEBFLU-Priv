@@ -1,3 +1,5 @@
+<img src="./Imagenes/neteclogo.png" alt="logo" width="300"/>
+
 # Arquitectura de Microservicios Reactivos con WebFlux
 
 Curso práctico orientado al diseño e implementación de arquitecturas de microservicios reactivos utilizando Spring WebFlux, aplicando principios de resiliencia, seguridad y observabilidad en entornos empresariales.
@@ -38,3 +40,18 @@ Curso práctico orientado al diseño e implementación de arquitecturas de micro
   - Descripción: Actividad práctica guiada basada en el contenido del módulo.
   - Duración estimada: 35 min
 
+
+
+## 📬 **Contacto y más información**
+
+
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+
+
+---
+
+
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
