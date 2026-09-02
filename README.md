@@ -12,7 +12,7 @@ Curso práctico orientado al diseño e implementación de arquitecturas de micro
 
 - [Laboratorio 1: Diseño de arquitectura base (diagrama + proyecto)](Capitulo01/README.md#laboratorio-1-diseño-de-arquitectura-base-diagrama-proyecto)
   - Descripción: Actividad práctica guiada basada en el contenido del módulo.
-  - Duración estimada: 95 min
+  - Duración contractual: 90 min
 
 ### Capítulo 2
 
@@ -38,8 +38,3 @@ Curso práctico orientado al diseño e implementación de arquitecturas de micro
   - Descripción: Actividad práctica guiada basada en el contenido del módulo.
   - Duración estimada: 35 min
 
-## Flujo de colaboración
-
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
