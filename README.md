@@ -1,4 +1,4 @@
-<img src="./Imagenes/neteclogo.png" alt="logo" width="300"/>
+<img src=".images/neteclogo (2).png" alt="logo" width="300"/>
 
 # Arquitectura de Microservicios Reactivos con WebFlux
 
